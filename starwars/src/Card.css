@@ -1,0 +1,60 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 100%;
+  margin: auto;
+  text-align: left;
+  background-color: #404040;
+  border-radius: 15px;
+  height: 100%;
+  font-size: 72px;
+}
+
+.circle {
+  border-radius: 50%;
+  background-image: linear-gradient(#8b8b8b,#5A5A5A);
+  color: #FAFAFA;;
+  top: 40%;
+  position: absolute;
+  left: 10%;
+  height: 130px;
+  width: 150px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.created {
+  position: absolute;
+  color: #F1CB45;
+  top: 10%;
+  left: 10%;
+  font-weight: normal;
+}
+
+.name {
+  position: absolute ;
+  top: 30%;
+  left: 25%;
+  color: #FAFAFA;
+}
+
+.climate {
+  position: absolute ;
+  top: 50%;
+  left: 25%;
+  color: #A1A1A1;
+}
+
+.films {
+  position: absolute ;
+  top: 70%;
+  left: 10%;
+  color: #E4E4E4;
+}
+
+img {
+  position: absolute ;
+  top: 40%;
+  right: 10%;
+  margin-right: 10px;
+  width: 100px;
+}
